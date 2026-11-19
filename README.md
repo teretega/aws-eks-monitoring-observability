@@ -3,6 +3,10 @@
 
 A hands-on DevOps project implementing the three pillars of observability—metrics, logs, and distributed traces—on Amazon Elastic Kubernetes Service (EKS).
 
+## Infrastructure Architecture
+
+![AWS EKS Monitoring and Observability Architecture](docs/images/eks-observability-architecture.png)
+
 ## Architecture
 
 **Metrics**
